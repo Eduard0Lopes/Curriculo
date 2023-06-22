@@ -35,7 +35,9 @@ h1, h3{
     background-size: contain;
 }
 /* Cores */
-
+.hr-custom{
+    width: 200px;
+}
 * {
     --background-black: #000000;
     --title-color: #000000;
@@ -212,7 +214,11 @@ h1, h3{
 
 .titulo{
     color: var(--title-color);
-    font-size: 1.5em;
+    font-size: 1.6em;
+}
+
+.sub-titulo{
+    color: var(--title-color);
 }
 
 
